@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "love-running",
+			"path": ".."
+		},
+		{
+			"name": "favicon-zip",
+			"path": "../../../Downloads/favicon-zip"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "love-running"
+	}
+}
